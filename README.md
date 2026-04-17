@@ -50,7 +50,7 @@ This project builds upon a basic Todo Card in HNG stage 0 task. It creates a mor
     *   Time remaining stops updating when the status becomes "Done".
     *   Replaced with: "Completed".
 
-#  Accessibility Requirements
+#  Accessibility
 
 *   Edit form fields have `<label for="">`.
 *   The status dropdown have an accessible name.
